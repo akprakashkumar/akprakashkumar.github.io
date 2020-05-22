@@ -9,7 +9,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Click Here For Resume"
   #    url: "/docs/SRE_OnePager.pdf"
 #excerpt: >
-#   Reader, Blogger, ...    
+    Geek, Tech Lover, Trying Blogs Now..    
 #feature_row:
 #  - image_path: /assets/images/Dentist.jpg
 #    alt: "Recent Blog(1)"
