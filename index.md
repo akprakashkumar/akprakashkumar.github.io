@@ -5,11 +5,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Ak_HomePage_Feature.jpg
   caption: "Photo Credit: [**Aswinkumar**](https://aswinkumar.in)"
-  #actions:
-  #  - label: "<i class='fas fa-download'></i> Click Here For Resume"
-  #    url: "/docs/SRE_OnePager.pdf"
-#excerpt: >
-    #Geek, Tech Lover, Trying Blogs Now..    
+  actions:
+    - label: "<i class='fas fa-download'></i> Download My Resume - Here"
+      url: "/docs/Resume.pdf"
+excerpt: >
+    Techie, Avid Reader, Blogger and many more..    
 #feature_row:
 #  - image_path: /assets/images/Dentist.jpg
 #    alt: "Recent Blog(1)"
