@@ -12,7 +12,8 @@ layouts_gallery:
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
 last_modified_at: 2020-05-22T22:46:43-6:30
-toc: true
+toc: false
+classes: wide
 ---
 ## Who am I ?
 <div style="text-align: justify">
@@ -23,6 +24,6 @@ toc: true
 		On the personal front, I am an an avid reader, I enjoy going on long drives, and love travelling to new places. I strongly believe in the saying, <b>"Everything happens for a reason"</b>, as I've have a lot of experiences.   
 	</p>
 	<p>
-		Always open to new challenges and opportunities that intrigues me, hit me up on my email, or on my LinkedIn. 
+		Always open to new challenges and opportunities that intrigues me, do feel free to hit me up on my email, or on my LinkedIn. 
 	</p>
 </div>
